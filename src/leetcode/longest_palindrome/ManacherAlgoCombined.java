@@ -51,7 +51,7 @@ public class ManacherAlgoCombined {
 class TestManacherAlgoCombined {
 
   @Test
-  void testManacherAlgo() {
+  void test_() {
     assertEquals("", getLongestPalindrome(""));
     assertEquals("a", getLongestPalindrome("a"));
     assertEquals("aa", getLongestPalindrome("aa"));
